@@ -1,0 +1,334 @@
+
+/* page home */
+
+.class{
+    max-width: 100%;
+    min-height: 500px;
+    background-color: #DCEAF5;
+    box-sizing: border-box;
+}
+
+
+.seeour{
+    
+    background: #F58A07;
+    border-radius: 31px;
+    padding: 10px 20px;
+    color: white;
+    margin-right: 30px;
+
+   
+}
+
+ .cont{
+    flex-direction: row;
+    margin-top: 20px;
+    font-size: 13px;
+    margin: 40px 0;
+    color:    #1D3444;
+ }
+
+ .worked{
+    color: rgba(57, 65, 73, 0.5);
+    margin-top: 60px;
+    font-size: 15px;
+ }
+
+ .iimg-img{ position: relative; margin-right: -80px; }
+
+
+.icon{
+    color:  #4A5D69;
+    margin: 30px;
+}
+
+.header3-cont{padding-top: 80px; margin-top: 100px;}
+
+.icon img{margin-right: 30px;}
+.text{
+    font-size: 15px;
+
+}
+
+.helpmore{
+    width: 60%;
+    margin-top: 50px;
+}
+
+.iimg{
+    display: flex;
+    justify-content: space-between;
+}
+
+ .content h1{
+    color:#063255;
+    font-size: 50px;
+    margin-bottom: 16px;
+}
+
+.content{
+    margin: 40px 0 ;
+}
+
+p{
+    color:  #5B5B5B;
+    font-size: 18px;
+}
+
+.iimg2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.post a{
+    color:  #F58A07;
+}
+
+.post h3{
+    color:  #0D1317;
+}
+
+.post img{
+    border-radius: 10px;
+}
+
+.helpmore{
+    justify-content: left;
+}
+
+.header3{
+    width: 100%;
+    height: 600px;
+    background: #DCEAF5;
+    margin-top: 50px;
+}
+
+
+.weare{display: flex; border: 50px 0 10px 0; }
+.weare>*{flex: 1;}
+.weare h3{ font-size: 25px;}
+
+.lorem{
+    display: flex;
+    justify-content: space-around;
+}
+
+.support{
+    width: 380px;
+    height: 270px;
+    background: white;
+    text-align:left;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 20px 30px ;
+}
+
+.img9{
+    display: flex;
+    justify-content: space-between;
+}
+
+.awards{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    margin-top: 50px;
+}
+.awards h3{ font-size: 32px;}
+
+
+.served h3{color: #F58A07; } 
+.sercor h3{color: #F58A07;}
+
+.header4{margin-top: 50px;}
+
+.year img{ border-radius: 25px;}
+.support h4{color: #0D1317;}
+
+.awards h4{ color:  #0D1317;}
+
+.served{ margin-right: 10px;}
+
+.energy{margin-top: 50px;}
+
+ h1{ color:#0D1317;}
+
+.year{ background-color: #F58A07;
+     border-radius: 25px 0 0 25px;
+      height: 666px;
+       width: 150px;
+    position: absolute;
+    margin-left: 620px;
+}
+
+.year img{mix-blend-mode: multiply;}
+
+.img8{ display: flex; justify-content: space-between;}
+
+
+.header5{margin-top: 150px;
+    background-color: #EDF7FF;
+    height: 700px;
+    border-radius: 20px;
+    
+}
+
+.img8-content{margin: 20px 0 0 50px;}
+.img8-content h1{font-size: 40px; margin-top: 80px;}
+.img8-content a{color: #F58A07; margin-top: 100px;}
+
+.header5-img-icon{position: absolute;
+    margin-left: 357px;
+    margin-top: -16px;
+}
+
+.header5-img-img{margin: 190px 50px 0 0;
+    mix-blend-mode: multiply;
+}
+
+
+
+.img8-content ul li{
+    display: inline-block;
+    margin-right: 15px; 
+    border-radius: 31px;
+    padding: 8px 20px;
+    font-size: 16px ;
+    margin: 30px 0 0 50px;
+    
+}
+
+
+.img8-content-ul .img8-content-zero{ color: #F58A07;  background: white;}
+
+.img8-content-ul .img8-content-li{ border: 1px solid  #A8BCCC;}
+
+
+.header6-content{
+    display: flex;
+    justify-content: space-between;
+    height: 550px;
+    width: 50%;
+    margin-top: 100px;
+    background: url(./images/experience-image.png);
+    /* background-repeat: no-repeat; */
+    background-size:auto;
+}
+
+
+.header6-right{
+    position: absolute;
+    width: 50%;
+    background: #F58A07;
+    margin: 0 0 0 50%;
+    height: 550px;
+}
+
+.header6-right h1{color: #fff; font-size: 46px; margin: 120px 350px 0 150px;}
+
+.header6-right a{padding: 10px 20px;
+     background: #fff; 
+     color: #F58A07; 
+     border-radius: 31px;
+      margin:  50px 0 0 150px;
+      position: absolute;   
+    }
+
+
+
+.header7{margin-top: 100px;}
+.header7-flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.header7-left-img{display: flex;}
+
+.header7-left h1{font-size: 40px; margin-top: 50px;}
+
+.header7-left-img{margin-top: 40px;}
+.header7-left-img h3{margin: 5px 0 5px 30px; color: #063255;}
+
+
+.header7-left h4{margin:-40px 0 0  110px; 
+    color: #F58A07;
+        
+}
+
+
+
+
+
+
+/* page services */
+
+/* .page2-services{margin-top: 200px;} */
+
+.services-page{display: flex; justify-content: space-between; margin-top: 110px;}
+
+.services-text h1{color:  #1D3444; font-size: 60px; margin-top: 100px;}
+
+.services-text p{font-size: 18px;}
+
+.services-text{margin-right: 50px;}
+
+.services-work{padding: 10px 20px ; background:  #F58A07; position: absolute; 
+    color: #fff; border-radius: 27px; margin-top: 25px;
+}
+
+.services-img img{mix-blend-mode: multiply;}
+
+.services-img {
+    background-color: #F58A07;
+    border-radius: 25px 0 0 25px;
+     height: 650px;
+      width: 150px;
+   position: absolute;
+   margin-left: 620px;
+}
+
+
+.services-two-page{display: flex; justify-content: space-between; margin-top: 250px;}
+.services-two-text{margin: 50px;}
+.services-two-text h1{font-size: 45px; color: #0D1317;}
+.services-two-text ul li{font-size: 16px;}
+.services-two-img img{mix-blend-mode: multiply;}
+
+.services-two-orange{
+    background: #F58A07;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 120px;
+    margin-left: -50px;
+    margin-right: 500px;  
+    position: absolute;
+}
+
+
+
+
+.services-tree-page{display: flex; justify-content: space-between; margin-top: 90px;}
+
+.services-tree-img img{mix-blend-mode: multiply;}
+.services-tree-orange{ 
+    background: #F58A07;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 280px;
+    /* margin-right: -50px; */
+    margin-left: 570px;  
+    position: absolute;
+}
+
+.services-tree-text h1{color: #0D1317; font-size: 45px;}
+.services-tree-text{margin-top: 100px;}
+.services-tree-text p{margin-right: 90px;}
+
+
+
+
+/* page careers css */
+.services-text-repair h1{font-size: 45px; color: #1D3444;}
