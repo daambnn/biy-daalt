@@ -1,0 +1,20 @@
+
+
+/* page careers css */
+.services-text-repair h1{font-size: 45px; color: #1D3444;}
+
+.career-head-align{display: flex; flex-wrap: wrap; }
+
+.career-head-content{
+    width: 400px; height: 180px; 
+    background: rgba(193, 228, 255, 0.3);
+    border-radius: 20px; 
+    margin: 20px 25px 25px 0;
+    
+}
+
+.career-head h1{margin-top: 300px; color: #0D1317;}
+
+.career-head-content h3{color:  #0D1317; margin-left: 30px;}
+.career-head-content p{color:   #394149; font-size: 15px;margin-left: 30px;}
+.career-head-content a{color:  #F58A07;margin-left: 30px;}

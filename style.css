@@ -16,9 +16,8 @@
     padding: 10px 20px;
     color: white;
     margin-right: 30px;
-
-   
 }
+
 
  .cont{
     flex-direction: row;
@@ -257,95 +256,3 @@ p{
         
 }
 
-
-
-
-
-
-/* page services */
-
-/* .page2-services{margin-top: 200px;} */
-
-.services-page{display: flex; justify-content: space-between; margin-top: 110px;}
-
-.services-text h1{color:  #1D3444; font-size: 60px; margin-top: 100px;}
-
-.services-text p{font-size: 18px;}
-
-.services-text{margin-right: 50px;}
-
-.services-work{padding: 10px 20px ; background:  #F58A07; position: absolute; 
-    color: #fff; border-radius: 27px; margin-top: 25px;
-}
-
-.services-img img{mix-blend-mode: multiply;}
-
-.services-img {
-    background-color: #F58A07;
-    border-radius: 25px 0 0 25px;
-     height: 650px;
-      width: 150px;
-   position: absolute;
-   margin-left: 620px;
-}
-
-
-.services-two-page{display: flex; justify-content: space-between; margin-top: 250px;}
-.services-two-text{margin: 50px;}
-.services-two-text h1{font-size: 45px; color: #0D1317;}
-.services-two-text ul li{font-size: 16px;}
-.services-two-img img{mix-blend-mode: multiply;}
-
-.services-two-orange{
-    background: #F58A07;
-    width: 100px;
-    height: 100px;
-    border-radius: 20px;
-    margin-top: 120px;
-    margin-left: -50px;
-    margin-right: 500px;  
-    position: absolute;
-}
-
-
-
-
-.services-tree-page{display: flex; justify-content: space-between; margin-top: 90px;}
-
-.services-tree-img img{mix-blend-mode: multiply;}
-.services-tree-orange{ 
-    background: #F58A07;
-    width: 100px;
-    height: 100px;
-    border-radius: 20px;
-    margin-top: 280px;
-    /* margin-right: -50px; */
-    margin-left: 570px;  
-    position: absolute;
-}
-
-.services-tree-text h1{color: #0D1317; font-size: 45px;}
-.services-tree-text{margin-top: 100px;}
-.services-tree-text p{margin-right: 90px;}
-
-
-
-
-/* page careers css */
-.services-text-repair h1{font-size: 45px; color: #1D3444;}
-
-.career-head-align{display: flex; flex-wrap: wrap; }
-
-.career-head-content{
-    width: 400px; height: 180px; 
-    background: rgba(193, 228, 255, 0.3);
-    border-radius: 20px; 
-    margin: 20px 25px 25px 0;
-    
-}
-
-.career-head h1{margin-top: 300px; color: #0D1317;}
-
-.career-head-content h3{color:  #0D1317; margin-left: 30px;}
-.career-head-content p{color:   #394149; font-size: 15px;margin-left: 30px;}
-.career-head-content a{color:  #F58A07;margin-left: 30px;}
